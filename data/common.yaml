@@ -1,6 +1,6 @@
 ---
 lookup_options:
-    "^generic::(.*)":
+ "^generic::config::(.*)":
     merge:
       strategy: deep
       merge_hash_arrays: true
